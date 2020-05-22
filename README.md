@@ -1,8 +1,6 @@
 # Applied Text Mining
 
-Regular Expressions
-
-Meta Characters :  Character Matches
+**Regular Expressions**
 
 Regex Character | Notes
 --- | --- 
@@ -13,7 +11,6 @@ $  | end of a string
 [a - z] | matches one of the range of characters a,b,....z
 [^abc] | matches a character that is not a,b, or, c
 a vertical line b | matches either a or b, where a and b are strings
-
 
 Scoping/ Operators | Notes
 --- | ---
