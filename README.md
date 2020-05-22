@@ -4,14 +4,15 @@ Regular Expressions
 
 Meta Characters :  Character Matches
 
-| Matches |
-| .  | Wild card, matches a single character
-^  : Start of a string
-$  : end of a string
-[ ] : matches one of the set of characters within [ ]
-[a - z] : matches one of the range of characters a,b,....z
-[^abc] : matches a character that is not a,b, or, c
-a |b  : matches either a or b, where a and b are strings
+Regex Character | Notes
+--- | --- 
+.  | Wild card, matches a single character
+^  | Start of a string
+$  | end of a string
+[ ] | matches one of the set of characters within [ ]
+[a - z] | matches one of the range of characters a,b,....z
+[^abc] | matches a character that is not a,b, or, c
+a |b  | matches either a or b, where a and b are strings
 
 ## Scoping/ Operators
 
