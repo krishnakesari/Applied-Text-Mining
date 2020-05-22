@@ -4,8 +4,8 @@ Regular Expressions
 
 Meta Characters :  Character Matches
 
-## Matches
-.  : Wild card, matches a single character
+| Matches |
+| .  | Wild card, matches a single character
 ^  : Start of a string
 $  : end of a string
 [ ] : matches one of the set of characters within [ ]
@@ -13,7 +13,7 @@ $  : end of a string
 [^abc] : matches a character that is not a,b, or, c
 a |b  : matches either a or b, where a and b are strings
 
-## Operators
+## Scoping/ Operators
 
 () : Scoping for operators
 \ : Escape character for special characters (\t, \n, \b)
