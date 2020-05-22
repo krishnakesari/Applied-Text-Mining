@@ -29,8 +29,8 @@ Scoping/ Operators | Notes
 
 Repetitions | Notes
 --- | ---
-* | matches zero or more occurrences
-+ | matches one or more occurrences
+asterisk | matches zero or more occurrences
+Plus | matches one or more occurrences
 ? | matches zero or one occurrences
 {n} | exactly n repetitions, n >= 0
 {n,} | at least n repetitions
