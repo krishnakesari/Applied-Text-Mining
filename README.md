@@ -12,7 +12,7 @@ $  | end of a string
 [ ] | matches one of the set of characters within [ ]
 [a - z] | matches one of the range of characters a,b,....z
 [^abc] | matches a character that is not a,b, or, c
-a |b  | matches either a or b, where a and b are strings
+a|b  | matches either a or b, where a and b are strings
 
 ## Scoping/ Operators
 
