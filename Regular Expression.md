@@ -33,11 +33,11 @@ Plus | matches one or more occurrences
 {m,n} | at least m and at most n repetitions
 
 ## Internationalization and Issues with Non-ASCII Characters
- Diacritics - Words with Accents
- International Languages
- Musical symbols/languages
- Emoji/Icons
- Other Character Encoding - IBM EBCDIC, Latin-I
- Unicode - UTF-8 encoding - Backward compatible with ASCII
+* Diacritics - Words with Accents
+* International Languages
+* Musical symbols/languages
+* Emoji/Icons
+* Other Character Encoding - IBM EBCDIC, Latin-I
+* Unicode - UTF-8 encoding - Backward compatible with ASCII
 
  
