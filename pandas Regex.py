@@ -64,6 +64,3 @@ df['text'].str.extract(r'(\d?\d):(\d\d) ?([ap]m)')
 df['text'].str.extractall(r'(?P<time>(?P<hour>\d?\d):(?P<minute>\d\d) ?(?P<period>[ap]m))')
 
 
-# %%
-
-
