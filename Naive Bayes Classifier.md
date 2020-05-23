@@ -36,4 +36,3 @@ Pr(Xi | y) = (k + 1) / (p + n) where n is number of features
 * Bernoulli Naive Bayes model
   Each feature is a binary feature (word is present or absent)
   Doesn't account for significance
-
