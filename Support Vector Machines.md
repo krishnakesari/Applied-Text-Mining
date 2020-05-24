@@ -44,3 +44,8 @@ SVM Parameters (I) : Parameters C
 
 * Multi_class: ovr (one-vs-rest)
 * class_weight: Different classes can get different weights
+
+Model selection:
+Cross-validation
+
+Scikit-learn : test_size = 0.333
