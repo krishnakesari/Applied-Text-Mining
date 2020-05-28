@@ -1,4 +1,7 @@
-# Latent Dirichlet Allocation
+# Latent Dirichlet Allocation (LDA)
+
+LDA is a topic model generates topics based on word frequency form a set of documents.
+* Very helpful for finding reasonably accurate mixtures of topics within  a given document set
 
 Documents combine multiple topics
 
@@ -18,10 +21,11 @@ Two Topic Modelling Approaches:
 2. Latent Dirichlet Allocation (LDA)
 
 Generative Models for Text:
-1. How likely you will see a word in the document 
+How likely you will see a word in the document 
 If finding Harry is 0.1 - means 1 in 10 words is harry 
 
 Steps:
-1. Preprocessing
-2. Document term matrix
-3. LDA - Helps in finding topic distribution 
+1. Importing Documents
+2. Preprocessing - Tokenization, stop words, stemming
+3. Document term matrix
+4. LDA and assessing topic distribution
