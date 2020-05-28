@@ -20,3 +20,8 @@ Two Topic Modelling Approaches:
 Generative Models for Text:
 1. How likely you will see a word in the document 
 If finding Harry is 0.1 - means 1 in 10 words is harry 
+
+Steps:
+1. Preprocessing
+2. Document term matrix
+3. LDA - Helps in finding topic distribution 
