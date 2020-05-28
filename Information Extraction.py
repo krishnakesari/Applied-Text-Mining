@@ -5,5 +5,10 @@
 ## Identify the mention / phrase: Boundary Detection
 ## Identify the type: Tagging / classification
 
+## Person, Organization, Location/GPE 
+
+## Relation Extraction - Identify relationships between named entities
+
+
 
 
